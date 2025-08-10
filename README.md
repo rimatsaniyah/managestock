@@ -1,7 +1,5 @@
-# managestock
-Simple Inventory Management System with Node.js (no framework) and MySQL.
-
 # ManageStock
+Simple Inventory Management System with Node.js (no framework) and MySQL.
 
 ManageStock adalah aplikasi Inventory Management sederhana yang dibuat dengan Node.js (tanpa framework) dan MySQL.  
 Aplikasi ini terdiri dari backend REST API dan frontend dashboard.
